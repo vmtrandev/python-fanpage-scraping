@@ -40,10 +40,10 @@ pip install wordcloud
 ## 1. Installation
 
 The facebook_scraper.py in this project is a modified version of Kevinzg facecbook-scraper (see at: https://github.com/kevinzg/facebook-scraper)
-You can either move this file to your current python's site_packages folder or install the original module and repalce the content of this main module file by this one.
+You can either move this file to your current python's site_packages folder or install the original module and replwce the content of this main module file by this one.
 If there is any better workaround, go for it cuz I'm not a pythonworm :(((
 
-For other modules, install all the packages listed in the Requirements section above. You better go to the link I provided to install them correctly.
+For other modules, install all the packages listed in the Requirements section above. You better go to the link I provided to get them all installed correctly.
 
 ## 2. Data Scraping
 
