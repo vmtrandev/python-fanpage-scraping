@@ -29,7 +29,7 @@ pip install wordcloud
 |-- datahandling.py
 |-- facebook_scraper.py
 |-- mask.png
-|-- nlp.py
+|-- nlp_processing.py
 |-- README.rst
 |-- scraping.py
 |-- vietnamese-stopwords.txt
