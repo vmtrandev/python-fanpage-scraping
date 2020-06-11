@@ -96,7 +96,7 @@ Usage
 
 
 
-7. WordCloud
+## 7. WordCloud
 
 Usage
 * Open wordcloud.py and change the final line of code
