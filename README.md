@@ -1,2 +1,0 @@
-# python-fanpage-scraping
-Ahihi
