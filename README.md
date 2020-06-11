@@ -4,9 +4,9 @@ Scrape Facebook public pages without an API key. Inspired by [twitter-scraper](h
 
 
 ## Requirements
-python >= 3.6 (some dependencies may not work properly with newer versions, at the time I made this project, underthesea module is not loaded with the latest python version 3.8.3)
-Tesseract client (see: https://github.com/tesseract-ocr/tesseract)
-pytesseract
+*python >= 3.6 (some dependencies may not work properly with newer versions, at the time I made this project, underthesea module is not loaded with the latest python version 3.8.3)
+*Tesseract client (see: https://github.com/tesseract-ocr/tesseract)
+*pytesseract
 ```sh
 pip install facebook-scraper
 ```
@@ -18,6 +18,7 @@ pip install wordcloud
 ```
 
 ## Project structure
+```
 |-- .gitignore
 |-- sample
     |-- _processed.json
@@ -36,6 +37,7 @@ pip install wordcloud
 |-- vietnamese-stopwords.txt
 |-- wordcloud.py
 |-- wordtokens_stat.py
+```
 
 ## 1. Installation
 
