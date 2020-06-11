@@ -86,7 +86,7 @@ Usage
 ## 6. Word Statistics
 
 Usage
-* Open wordtokens_stat.py and change the final line code
+* Open wordtokens_stat.py and change the final line of code
 * Default data file location is: processed.json
 * To get topic name: open processed.json and copy the topic name wrapped inside ""
 
@@ -99,7 +99,7 @@ Usage
 7. WordCloud
 
 Usage
-* Open wordcloud.py and change the final line code
+* Open wordcloud.py and change the final line of code
 * Default data file location is: processed.json
 * To get topic name: open processed.json and copy the topic name wrapped inside ""
 
