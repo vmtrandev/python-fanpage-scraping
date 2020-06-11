@@ -88,7 +88,7 @@ Usage
 Usage
 * Open wordtokens_stat.py and change the final line of code
 * Default data file location is: processed.json
-* To get topic name: open processed.json and copy the topic name wrapped inside ""
+* To get topic names: open processed.json and copy the topic name wrapped inside ""
 
 ```python
 ...   word_tokens_stat(<path to received file from step 4>, '<topic name>')
@@ -101,7 +101,7 @@ Usage
 Usage
 * Open wordcloud.py and change the final line of code
 * Default data file location is: processed.json
-* To get topic name: open processed.json and copy the topic name wrapped inside ""
+* To get topic names: open processed.json and copy the topic name wrapped inside ""
 
 ```python
 ...   word_cloud(<path to received file from step 4>, '<topic name>')
